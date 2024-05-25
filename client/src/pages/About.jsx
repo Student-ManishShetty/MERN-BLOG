@@ -8,7 +8,7 @@ export default function About() {
           </h1>
           <div className='text-md text-gray-500 flex flex-col gap-6'>
             <p>
-            "Welcome to Creative Blog! We're passionate about creating a space where individuals can share their thoughts, ideas, and stories with the world. Whether you're a seasoned writer or just starting out, our platform offers a user-friendly experience to help you craft engaging content and connect with like-minded readers. Our mission is to inspire creativity, spark meaningful conversations, and cultivate a vibrant community of bloggers. Join us on this journey of expression and discovery!"
+            "Welcome to Creative Blog's! We're passionate about creating a space where individuals can share their thoughts, ideas, and stories with the world. Whether you're a seasoned writer or just starting out, our platform offers a user-friendly experience to help you craft engaging content and connect with like-minded readers. Our mission is to inspire creativity, spark meaningful conversations, and cultivate a vibrant community of bloggers. Join us on this journey of expression and discovery!"
             </p>
           </div>
         </div>

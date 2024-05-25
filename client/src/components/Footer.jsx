@@ -48,13 +48,13 @@ export default function FooterCom() {
                 >
                   Github
                 </Footer.Link>
-                <Footer.Link href='#'>Discord</Footer.Link>
+                {/* <Footer.Link href='#'>Discord</Footer.Link> */}
               </Footer.LinkGroup>
             </div>
             <div>
               <Footer.Title title='Legal' />
               <Footer.LinkGroup col>
-                <Footer.Link href='/Projects' target='_blank' rel='noopener noreferrer'>Privacy Policy</Footer.Link>
+                {/* <Footer.Link href='/Projects' target='_blank' rel='noopener noreferrer'>Privacy Policy</Footer.Link> */}
                 <Footer.Link href='/Projects' target='_blank' rel='noopener noreferrer'>Terms &amp; Conditions</Footer.Link>
               </Footer.LinkGroup>
             </div>
